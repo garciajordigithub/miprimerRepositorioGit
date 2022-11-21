@@ -1,3 +1,8 @@
+Token funcionando
+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
+
 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
 primeras lineas
 segundas lineas
+
+git remote set-url origin https://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@github.com/garciajordigithub/miPrimerRepositorio
